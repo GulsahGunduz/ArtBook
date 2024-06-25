@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  ArtBookProject
-//
-//  Created by Gülşah Gündüz on 25.02.2024.
-//
+
 
 import UIKit
 import CoreData
